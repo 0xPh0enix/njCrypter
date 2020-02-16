@@ -9,4 +9,4 @@ Simple Free Crypter for .NET Trojans like njRAT written fully in C#(.NET 2.0)
 
 Scan: https://antiscan.me/scan/new/result?id=VFiRF79AZDZg
 
-Please, do not upload it on virustotal.com!
+#### Please, do not upload it on virustotal.com!
