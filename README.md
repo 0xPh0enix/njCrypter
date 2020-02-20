@@ -1,5 +1,5 @@
 # njCrypter
-Simple Free Crypter for .NET Trojans like njRAT written fully in C#(.NET 2.0) 
+```Simple Free Crypter for .NET Trojans like njRAT written fully in C#(.NET 2.0)```
 
 ### Features:
 
