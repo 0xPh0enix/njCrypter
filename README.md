@@ -9,6 +9,10 @@
 
 ```Scan```: https://antiscan.me/scan/new/result?id=VFiRF79AZDZg
 
+<p align="center">
+  <img src="Scan/Scan.png">
+</p>
+
 ```Download```: https://github.com/0xPh0enix/njCrypter/releases
 
 #### Please, do not upload it on virustotal.com!
