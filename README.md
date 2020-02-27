@@ -8,6 +8,7 @@
 2.Execution in Memory
 
 ```Scan```: https://antiscan.me/scan/new/result?id=VFiRF79AZDZg
+
 ```Download```: https://github.com/0xPh0enix/njCrypter/releases
 
 #### Please, do not upload it on virustotal.com!
