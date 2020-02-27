@@ -15,4 +15,8 @@
 
 ```Download```: https://github.com/0xPh0enix/njCrypter/releases
 
+```How to make it FUD?```: 
+
+To make your crypt FUD you need to obfuscate result with some protector like Confuser, .NET Reactor...
+
 #### Please, do not upload it on virustotal.com!
