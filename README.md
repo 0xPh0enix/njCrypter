@@ -17,6 +17,6 @@
 
 ```How to make it FUD?```: 
 
-To make your crypt FUD you need to obfuscate result with some protector like Confuser, .NET Reactor...
+To make your crypt FUD you need to obfuscate result with any protector like Confuser, .NET Reactor...
 
 #### Please, do not upload it on virustotal.com!
