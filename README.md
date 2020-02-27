@@ -7,7 +7,7 @@
 
 2.Execution in Memory
 
-### Scan ###: 
+### Scan: 
 
 <p align="center">
   <img src="Scan/Scan.png">
