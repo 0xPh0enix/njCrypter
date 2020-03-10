@@ -7,6 +7,8 @@
 
 2.Execution in Memory
 
+3.Support .NET 2.0 Files
+
 ### Scan: 
 
 <p align="center">
